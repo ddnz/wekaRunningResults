@@ -1,1 +1,1 @@
-# weka results will be appear in this repository.
+# You can find the weka results in this repository.
