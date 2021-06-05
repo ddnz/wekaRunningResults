@@ -1,1 +1,1 @@
-# wekaRunningResults will be appear in this repositories.
+# weka results will be appear in this repository.
